@@ -36,7 +36,7 @@ int main()
 		{
 			index = rand() % NUM_NAMES;
 			printf("%s", names[index]);
-			names[index] = names[--NUM_NAMES];
+			names[index] -= NUM_NAMES;
 			printf("\n");
 		}
 	}
