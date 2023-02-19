@@ -1,4 +1,0 @@
-/*
-Write a program in C to check a given number is even
-or odd using the function.
-*/

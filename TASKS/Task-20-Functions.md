@@ -1,8 +1,8 @@
 ## Tasks On Functions
-1.	Write a function to find the sum of two numbers
-2.	Write a function to find the largest of two numbers
-3.	Write a function to find the factorial of a number
-4.	Write a function to check if a number is even or odd
+1.	Write a function to find the sum of two numbers (done)
+2.	Write a function to find the largest of two numbers (done)
+3.	Write a function to find the factorial of a number  (done)
+4.	Write a function to check if a number is even or odd (done)
 5.	Write a function to find the GCD (greatest common divisor) of two numbers
 6.	Write a function to find the LCM (least common multiple) of two numbers
 7.	Write a function to find the area of a circle

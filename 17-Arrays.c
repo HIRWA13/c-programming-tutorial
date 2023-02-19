@@ -1,4 +1,4 @@
-/*
+c/*
     Definition of Array
 An array is a data structure containing data values of the same type.
 Note: A data structure is a format for organizing, storing and
